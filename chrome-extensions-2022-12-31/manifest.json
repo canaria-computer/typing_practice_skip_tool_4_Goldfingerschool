@@ -1,0 +1,24 @@
+{
+    "name": "goldfingerschoolをスキップする",
+    "manifest_version": 3,
+    "version": "1.0",
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "tabs"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://goldfingerschool.jp/school/*"
+            ],
+            "js": [
+                "./goldfingerschool_skip.js"
+            ]
+        }
+    ],
+    "host_permissions": [
+        "https://goldfingerschool.jp/school/"
+    ],
+    "action": {}
+}
