@@ -22,10 +22,6 @@
 1. `chrome://extensions/`へ行き "goldfingerschoolをスキップする"を削除してください。
 2. ダウンロードしたファイルなどを削除してください。
 
-## インストール方法の様子の映像
-
-[インストールの様子の映像と音声](pr\video\install_explanation.mp4)
-
 ## 実際の様子
 
 ![このツールを使った様子。コントロールキーとスペースキーを同時押ししてスタートすると、一瞬で結果ができます。](pr/video/actual_situation.gif)
