@@ -1,0 +1,358 @@
+1688649554457	geckodriver	INFO	Listening on 127.0.0.1:51957
+1688649557481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofileGGe8pn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688649557760	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688649557764	Marionette	INFO	Listening on port 51965
+Read port: 51965
+WebDriver BiDi listening on ws://127.0.0.1:51958
+1688649557865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51958/devtools/browser/0d86dc70-d929-4d6b-a123-7a59ab6ae1e9
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1688649693060	Marionette	INFO	Stopped listening on port 51965
+Dynamically enable window occlusion 1
+1688649698629	geckodriver	INFO	Listening on 127.0.0.1:52021
+1688649704918	geckodriver	INFO	Listening on 127.0.0.1:52030
+1688649707986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofilezIre2L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688649708252	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688649708256	Marionette	INFO	Listening on port 52041
+Read port: 52041
+WebDriver BiDi listening on ws://127.0.0.1:52031
+1688649708356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52031/devtools/browser/fcaad4cf-539c-463b-8f58-026408495db0
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1688649733679	Marionette	INFO	Stopped listening on port 52041
+Dynamically enable window occlusion 1
+1688649746524	geckodriver	INFO	Listening on 127.0.0.1:52108
+1688649749599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofilebTHurE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688649749855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688649749859	Marionette	INFO	Listening on port 52118
+WebDriver BiDi listening on ws://127.0.0.1:52109
+Read port: 52118
+1688649750033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52109/devtools/browser/7a880155-bb47-47de-88f5-b5f2657b7124
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+1688649779235	Marionette	INFO	Stopped listening on port 52118
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688649783621	geckodriver	INFO	Listening on 127.0.0.1:52154
+1688649786701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofileJ9NQbz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688649786984	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688649786987	Marionette	INFO	Listening on port 52163
+Read port: 52163
+WebDriver BiDi listening on ws://127.0.0.1:52155
+1688649787085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52155/devtools/browser/dc377b2c-14fb-415f-8686-99ec1b1b94c3
+1688649793474	geckodriver	INFO	Listening on 127.0.0.1:52217
+1688649796543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofilew2dX1R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688649796798	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688649796801	Marionette	INFO	Listening on port 52226
+WebDriver BiDi listening on ws://127.0.0.1:52218
+Read port: 52226
+1688649796978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52218/devtools/browser/d1fa7524-0ffe-41d9-8062-0d3fa377c1f6
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688652228271	Marionette	INFO	Stopped listening on port 52226
+Dynamically enable window occlusion 1
+ervices.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688650174426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688650174430	Marionette	INFO	Listening on port 52330
+Read port: 52330
+WebDriver BiDi listening on ws://127.0.0.1:52322
+1688650174532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52322/devtools/browser/c78d1ba8-ca6e-47bf-a28b-3804f42cdd7a
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+1688651232244	Marionette	INFO	Stopped listening on port 52330
+Dynamically enable window occlusion 1
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688651240943	geckodriver	INFO	Listening on 127.0.0.1:52548
+1688651244018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofileExUMT8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651244276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651244280	Marionette	INFO	Listening on port 52557
+WebDriver BiDi listening on ws://127.0.0.1:52549
+Read port: 52557
+1688651244451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52549/devtools/browser/efd9e3d7-6a33-44e2-94ec-2a3a72bed680
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 325: TypeError: can't access dead object
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+1688651311135	Marionette	INFO	Stopped listening on port 52557
+Dynamically enable window occlusion 1
+1688651315532	geckodriver	INFO	Listening on 127.0.0.1:52610
+1688651318592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofile6FQQ8D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651318852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651318856	Marionette	INFO	Listening on port 52619
+WebDriver BiDi listening on ws://127.0.0.1:52611
+Read port: 52619
+1688651319026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52611/devtools/browser/821df2e2-9f06-40be-acbf-ebfe7ed4fe58
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+1688651341101	Marionette	INFO	Stopped listening on port 52619
+Dynamically enable window occlusion 1
+1688651348835	geckodriver	INFO	Listening on 127.0.0.1:52657
+1688651351881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofilen5olH7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651352136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651352141	Marionette	INFO	Listening on port 52667
+WebDriver BiDi listening on ws://127.0.0.1:52658
+Read port: 52667
+1688651352317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52658/devtools/browser/e2fbb02e-42f5-4d2b-9465-02c90ec7c101
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+1688651392506	Marionette	INFO	Stopped listening on port 52667
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688651396446	geckodriver	INFO	Listening on 127.0.0.1:52712
+1688651399498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofileIvLM8b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651399758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651399762	Marionette	INFO	Listening on port 52721
+WebDriver BiDi listening on ws://127.0.0.1:52713
+Read port: 52721
+1688651399942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52713/devtools/browser/e85c25fe-bdc1-4bbe-a58b-bf02dfb27272
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+1688651428605	Marionette	INFO	Stopped listening on port 52721
+Dynamically enable window occlusion 1
+1688651432485	geckodriver	INFO	Listening on 127.0.0.1:52758
+1688651435567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofile6EeF7N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651435823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651435826	Marionette	INFO	Listening on port 52768
+WebDriver BiDi listening on ws://127.0.0.1:52759
+Read port: 52768
+1688651436004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52759/devtools/browser/ced85704-ea7b-4859-bf34-e1a985b0848a
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+1688651452421	Marionette	INFO	Stopped listening on port 52768
+Dynamically enable window occlusion 1
+1688651456388	geckodriver	INFO	Listening on 127.0.0.1:52803
+1688651459441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofileJj4v4s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651459704	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651459709	Marionette	INFO	Listening on port 52812
+Read port: 52812
+WebDriver BiDi listening on ws://127.0.0.1:52804
+1688651459813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52804/devtools/browser/2cb6f885-1a74-45e8-ac6b-d145c1d04a65
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1688651471513	geckodriver	INFO	Listening on 127.0.0.1:52869
+1688651474586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mr-ak\\AppData\\Local\\Temp\\rust_mozprofilemLqlCX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688651474842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688651474846	Marionette	INFO	Listening on port 52879
+WebDriver BiDi listening on ws://127.0.0.1:52870
+Read port: 52879
+1688651475026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52870/devtools/browser/f765c7bf-f27a-465b-949b-4051c2f979f2
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://goldfingerschool.jp."
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+JavaScript warning: https://goldfingerschool.jp/school/js/nbt.js?20230627, line 1005: unreachable code after return statement
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
